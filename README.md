@@ -87,16 +87,15 @@ flutter run
 ## Screenshots
 
 ### Home
-<img src="docs/screenshots/Home-1.png" alt="Home" width="280" />
+<img src="docs/screenshots/Home-1.png" alt="Home" width="200" />
 
 ### Coaches
-<img src="docs/screenshots/Dietitian.png" alt="Dietitian" width="240" />
-<img src="docs/screenshots/Fitness.png" alt="Fitness Coach" width="240" />
-<img src="docs/screenshots/Pilates.png" alt="Pilates Coach" width="240" />
-<img src="docs/screenshots/Yoga.png" alt="Yoga Instructor" width="240" />
+| Dietitian | Fitness Coach | Pilates Coach | Yoga Instructor |
+| --- | --- | --- | --- |
+| <img src="docs/screenshots/Dietitian.png" alt="Dietitian" width="150" /> | <img src="docs/screenshots/Fitness.png" alt="Fitness Coach" width="150" /> | <img src="docs/screenshots/Pilates.png" alt="Pilates Coach" width="150" /> | <img src="docs/screenshots/Yoga.png" alt="Yoga Instructor" width="150" /> |
 
 ### Chat History
-<img src="docs/screenshots/ChatHistory.png" alt="Chat History" width="280" />
+<img src="docs/screenshots/ChatHistory.png" alt="Chat History" width="200" />
 
 
 
