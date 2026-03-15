@@ -2,6 +2,19 @@
 
 WellnessAI is a health and wellness mobile application where users can chat with AI coaches that have different areas of expertise.
 
+## Screenshots
+
+### Home
+<img src="docs/screenshots/Home-1.png" alt="Home" width="200" />
+
+### Coaches
+| Dietitian | Fitness Coach | Pilates Coach | Yoga Instructor |
+| --- | --- | --- | --- |
+| <img src="docs/screenshots/Dietitian.png" alt="Dietitian" width="170" /> | <img src="docs/screenshots/Fitness.png" alt="Fitness Coach" width="170" /> | <img src="docs/screenshots/Pilates.png" alt="Pilates Coach" width="170" /> | <img src="docs/screenshots/Yoga.png" alt="Yoga Instructor" width="170" /> |
+
+### Chat History
+<img src="docs/screenshots/ChatHistory.png" alt="Chat History" width="200" />
+
 ## Project Scope
 
 - Bottom navigation with two tabs:
@@ -83,19 +96,6 @@ flutter run
 - Stores conversations locally on device.
 - Shows coach name, timestamp, and last message snippet.
 - Allows opening an existing session and continuing from previous context.
-
-## Screenshots
-
-### Home
-<img src="docs/screenshots/Home-1.png" alt="Home" width="200" />
-
-### Coaches
-| Dietitian | Fitness Coach | Pilates Coach | Yoga Instructor |
-| --- | --- | --- | --- |
-| <img src="docs/screenshots/Dietitian.png" alt="Dietitian" width="170" /> | <img src="docs/screenshots/Fitness.png" alt="Fitness Coach" width="170" /> | <img src="docs/screenshots/Pilates.png" alt="Pilates Coach" width="170" /> | <img src="docs/screenshots/Yoga.png" alt="Yoga Instructor" width="170" /> |
-
-### Chat History
-<img src="docs/screenshots/ChatHistory.png" alt="Chat History" width="200" />
 
 
 
