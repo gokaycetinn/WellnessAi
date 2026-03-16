@@ -2,7 +2,7 @@
 
 <img src="asset/logo.png" alt="App Icon" width="72" />
 
-WellnessAI is a health and wellness mobile application where users can chat with AI coaches that have different areas of expertise.
+WellnessAI is a health and wellness mobile application where users can chat with AI coaches that have different areas of expertise
 
 ## Screenshots
 

@@ -54,8 +54,6 @@ class AppTextStyles {
   
   static TextStyle get headlineLarge => appTitle;
 
-  static TextStyle get headlineMedium => titleLarge;
-
   static TextStyle get titleLarge => cardTitle;
   
   static TextStyle get titleMedium => GoogleFonts.plusJakartaSans(
