@@ -1,4 +1,4 @@
-# WellnessAI - Flutter Academy Case Study
+# WellnessAI
 
 <img src="asset/logo.png" alt="App Icon" width="72" />
 
